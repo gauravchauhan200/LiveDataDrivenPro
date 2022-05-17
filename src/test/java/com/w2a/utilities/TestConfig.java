@@ -16,6 +16,9 @@ public class TestConfig{
 	
 	
 	
+	
+	
+	
 	//SQL DATABASE DETAILS	
 	public static String driver="net.sourceforge.jtds.jdbc.Driver"; 
 	public static String dbConnectionUrl="jdbc:jtds:sqlserver://192.101.44.22;DatabaseName=monitor_eval"; 
